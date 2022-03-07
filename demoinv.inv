@@ -1,2 +1,2 @@
 [demo1]
-34.125.115.227
+34.125.115.227 ansible_user=aissel
